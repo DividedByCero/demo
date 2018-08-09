@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "numbers" : [1, 2, 3, 4, 5 , 6, 7, 8, 9, 10 ],
+  "names" : [
+    {"name" : "Frederic"},
+    {"name" : "Rob"},
+    {"name" : "Sansa"},
+    {"name" : "Barry"}
+  ]
 }
